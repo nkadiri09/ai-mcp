@@ -1,0 +1,156 @@
+{
+  "name": "brotlicffi",
+  "version": "1.2.0.0",
+  "build": "py312h50f4ffc_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-arm64",
+  "subdir": "osx-arm64",
+  "fn": "brotlicffi-1.2.0.0-py312h50f4ffc_0.conda",
+  "md5": "a54457d5bff59b99e18e38c31e7d4a39",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-arm64/brotlicffi-1.2.0.0-py312h50f4ffc_0.conda",
+  "sha256": "3534636367ab36f66de20c33086e20fde0345f1c774d1fe9ceff1029858603bd",
+  "depends": [
+    "__osx >=12.1",
+    "cffi >=1.0.0",
+    "libcxx >=20",
+    "python >=3.12,<3.13.0a0"
+  ],
+  "constrains": [],
+  "license": "MIT",
+  "timestamp": 1764961199000,
+  "size": 374228,
+  "requested_spec": "None",
+  "package_tarball_full_path": "/opt/anaconda3/pkgs/brotlicffi-1.2.0.0-py312h50f4ffc_0.conda",
+  "extracted_package_dir": "/opt/anaconda3/pkgs/brotlicffi-1.2.0.0-py312h50f4ffc_0",
+  "files": [
+    "lib/python3.12/site-packages/brotlicffi-1.2.0.0.dist-info/INSTALLER",
+    "lib/python3.12/site-packages/brotlicffi-1.2.0.0.dist-info/METADATA",
+    "lib/python3.12/site-packages/brotlicffi-1.2.0.0.dist-info/RECORD",
+    "lib/python3.12/site-packages/brotlicffi-1.2.0.0.dist-info/REQUESTED",
+    "lib/python3.12/site-packages/brotlicffi-1.2.0.0.dist-info/WHEEL",
+    "lib/python3.12/site-packages/brotlicffi-1.2.0.0.dist-info/direct_url.json",
+    "lib/python3.12/site-packages/brotlicffi-1.2.0.0.dist-info/licenses/LICENSE",
+    "lib/python3.12/site-packages/brotlicffi-1.2.0.0.dist-info/top_level.txt",
+    "lib/python3.12/site-packages/brotlicffi/__init__.py",
+    "lib/python3.12/site-packages/brotlicffi/__pycache__/__init__.cpython-312.pyc",
+    "lib/python3.12/site-packages/brotlicffi/__pycache__/_api.cpython-312.pyc",
+    "lib/python3.12/site-packages/brotlicffi/__pycache__/_build.cpython-312.pyc",
+    "lib/python3.12/site-packages/brotlicffi/_api.py",
+    "lib/python3.12/site-packages/brotlicffi/_brotlicffi.abi3.so",
+    "lib/python3.12/site-packages/brotlicffi/_build.py"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "lib/python3.12/site-packages/brotlicffi-1.2.0.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5,
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8"
+      },
+      {
+        "_path": "lib/python3.12/site-packages/brotlicffi-1.2.0.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "2e4bafc5a4edf61c2ebcc211410af4b9b4ccc23228fa5955d286a008610caf08",
+        "size_in_bytes": 6437,
+        "sha256_in_prefix": "2e4bafc5a4edf61c2ebcc211410af4b9b4ccc23228fa5955d286a008610caf08"
+      },
+      {
+        "_path": "lib/python3.12/site-packages/brotlicffi-1.2.0.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "0991691d0f2672ffab6e656cc7ac96221d2bf9c6529cf57e74fae7e541e085c9",
+        "size_in_bytes": 1183,
+        "sha256_in_prefix": "0991691d0f2672ffab6e656cc7ac96221d2bf9c6529cf57e74fae7e541e085c9"
+      },
+      {
+        "_path": "lib/python3.12/site-packages/brotlicffi-1.2.0.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0,
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "_path": "lib/python3.12/site-packages/brotlicffi-1.2.0.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "c799a8d2f75e9d8f3cd7e4e0cabec1204dd7f14833f61d72c77ff256a6eda156",
+        "size_in_bytes": 108,
+        "sha256_in_prefix": "c799a8d2f75e9d8f3cd7e4e0cabec1204dd7f14833f61d72c77ff256a6eda156"
+      },
+      {
+        "_path": "lib/python3.12/site-packages/brotlicffi-1.2.0.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "bf6198dd3cc700bf6687a02f084f9a6f86707bced48f3505af93da86d42f92a2",
+        "size_in_bytes": 89,
+        "sha256_in_prefix": "bf6198dd3cc700bf6687a02f084f9a6f86707bced48f3505af93da86d42f92a2"
+      },
+      {
+        "_path": "lib/python3.12/site-packages/brotlicffi-1.2.0.0.dist-info/licenses/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "f3e9c29e3db36dc305a4be68a8a225f93949852ce2d19b5b0a3c099eee6509c5",
+        "size_in_bytes": 1056,
+        "sha256_in_prefix": "f3e9c29e3db36dc305a4be68a8a225f93949852ce2d19b5b0a3c099eee6509c5"
+      },
+      {
+        "_path": "lib/python3.12/site-packages/brotlicffi-1.2.0.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "40db176816f56fb1450e844e80c0681d30f07ec5a26bb757e462d18540cfc973",
+        "size_in_bytes": 23,
+        "sha256_in_prefix": "40db176816f56fb1450e844e80c0681d30f07ec5a26bb757e462d18540cfc973"
+      },
+      {
+        "_path": "lib/python3.12/site-packages/brotlicffi/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "35a55dfc833d87d8de1e7387f71511fbae3a66ef1389422e56d0e1e65d6ea60d",
+        "size_in_bytes": 224,
+        "sha256_in_prefix": "35a55dfc833d87d8de1e7387f71511fbae3a66ef1389422e56d0e1e65d6ea60d"
+      },
+      {
+        "_path": "lib/python3.12/site-packages/brotlicffi/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "a44754917f4acef680d1b1f381f8c67ef38388f2d1eb90a99974dea728838a5a",
+        "size_in_bytes": 449,
+        "sha256_in_prefix": "a44754917f4acef680d1b1f381f8c67ef38388f2d1eb90a99974dea728838a5a"
+      },
+      {
+        "_path": "lib/python3.12/site-packages/brotlicffi/__pycache__/_api.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "bfe80f60c5b8d9f69643b6c5d0734dee541303c98d82b533f0a27494c96aaebd",
+        "size_in_bytes": 20647,
+        "sha256_in_prefix": "bfe80f60c5b8d9f69643b6c5d0734dee541303c98d82b533f0a27494c96aaebd"
+      },
+      {
+        "_path": "lib/python3.12/site-packages/brotlicffi/__pycache__/_build.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "f69a71f638aaf92f860410cb69770870af066f63002b898464968309867ab883",
+        "size_in_bytes": 9765,
+        "sha256_in_prefix": "f69a71f638aaf92f860410cb69770870af066f63002b898464968309867ab883"
+      },
+      {
+        "_path": "lib/python3.12/site-packages/brotlicffi/_api.py",
+        "path_type": "hardlink",
+        "sha256": "f529edbf7e45ce053bf3e2a9dc0a8bc12133dd6b5c724e447d19ebd2bb374e88",
+        "size_in_bytes": 19563,
+        "sha256_in_prefix": "f529edbf7e45ce053bf3e2a9dc0a8bc12133dd6b5c724e447d19ebd2bb374e88"
+      },
+      {
+        "_path": "lib/python3.12/site-packages/brotlicffi/_brotlicffi.abi3.so",
+        "path_type": "hardlink",
+        "sha256": "3ed03cce99acb57c0d1d34787881b7254fe67c0ed2b437d26311db5f2f690200",
+        "size_in_bytes": 894608,
+        "sha256_in_prefix": "3ed03cce99acb57c0d1d34787881b7254fe67c0ed2b437d26311db5f2f690200"
+      },
+      {
+        "_path": "lib/python3.12/site-packages/brotlicffi/_build.py",
+        "path_type": "hardlink",
+        "sha256": "26cf85a2f6f3348b11f0285f5971fc42ea6cec9b939b73d6468de1edc278e251",
+        "size_in_bytes": 9328,
+        "sha256_in_prefix": "26cf85a2f6f3348b11f0285f5971fc42ea6cec9b939b73d6468de1edc278e251"
+      }
+    ]
+  },
+  "link": {
+    "source": "/opt/anaconda3/pkgs/brotlicffi-1.2.0.0-py312h50f4ffc_0",
+    "type": 1
+  }
+}

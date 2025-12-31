@@ -1,0 +1,11 @@
+prefix=/Users/nkadiri/Documents/project/ai-learning/python-test/venv
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+toolexeclibdir=${libdir}
+includedir=/Users/nkadiri/Documents/project/ai-learning/python-test/venv/include
+
+Name: libffi
+Description: Library supporting Foreign Function Interfaces
+Version: 3.4.4
+Libs: -L${toolexeclibdir} -lffi
+Cflags: -I${includedir}

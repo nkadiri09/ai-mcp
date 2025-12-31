@@ -1,0 +1,315 @@
+{
+  "name": "charset-normalizer",
+  "version": "3.4.4",
+  "build": "py312hca03da5_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-arm64",
+  "subdir": "osx-arm64",
+  "fn": "charset-normalizer-3.4.4-py312hca03da5_0.conda",
+  "md5": "858166c1f48fd55b0a9e0047901ffe22",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-arm64/charset-normalizer-3.4.4-py312hca03da5_0.conda",
+  "sha256": "598e83349b12144ced95cb3d9295f1d06a708feb097656a69c91278dbc630ded",
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "constrains": [],
+  "license": "MIT",
+  "timestamp": 1761744860000,
+  "size": 99207,
+  "requested_spec": "None",
+  "package_tarball_full_path": "/opt/anaconda3/pkgs/charset-normalizer-3.4.4-py312hca03da5_0.conda",
+  "extracted_package_dir": "/opt/anaconda3/pkgs/charset-normalizer-3.4.4-py312hca03da5_0",
+  "files": [
+    "bin/normalizer",
+    "lib/python3.12/site-packages/charset_normalizer-3.4.4.dist-info/INSTALLER",
+    "lib/python3.12/site-packages/charset_normalizer-3.4.4.dist-info/METADATA",
+    "lib/python3.12/site-packages/charset_normalizer-3.4.4.dist-info/RECORD",
+    "lib/python3.12/site-packages/charset_normalizer-3.4.4.dist-info/REQUESTED",
+    "lib/python3.12/site-packages/charset_normalizer-3.4.4.dist-info/WHEEL",
+    "lib/python3.12/site-packages/charset_normalizer-3.4.4.dist-info/direct_url.json",
+    "lib/python3.12/site-packages/charset_normalizer-3.4.4.dist-info/entry_points.txt",
+    "lib/python3.12/site-packages/charset_normalizer-3.4.4.dist-info/licenses/LICENSE",
+    "lib/python3.12/site-packages/charset_normalizer-3.4.4.dist-info/top_level.txt",
+    "lib/python3.12/site-packages/charset_normalizer/__init__.py",
+    "lib/python3.12/site-packages/charset_normalizer/__main__.py",
+    "lib/python3.12/site-packages/charset_normalizer/__pycache__/__init__.cpython-312.pyc",
+    "lib/python3.12/site-packages/charset_normalizer/__pycache__/__main__.cpython-312.pyc",
+    "lib/python3.12/site-packages/charset_normalizer/__pycache__/api.cpython-312.pyc",
+    "lib/python3.12/site-packages/charset_normalizer/__pycache__/cd.cpython-312.pyc",
+    "lib/python3.12/site-packages/charset_normalizer/__pycache__/constant.cpython-312.pyc",
+    "lib/python3.12/site-packages/charset_normalizer/__pycache__/legacy.cpython-312.pyc",
+    "lib/python3.12/site-packages/charset_normalizer/__pycache__/md.cpython-312.pyc",
+    "lib/python3.12/site-packages/charset_normalizer/__pycache__/models.cpython-312.pyc",
+    "lib/python3.12/site-packages/charset_normalizer/__pycache__/utils.cpython-312.pyc",
+    "lib/python3.12/site-packages/charset_normalizer/__pycache__/version.cpython-312.pyc",
+    "lib/python3.12/site-packages/charset_normalizer/api.py",
+    "lib/python3.12/site-packages/charset_normalizer/cd.py",
+    "lib/python3.12/site-packages/charset_normalizer/cli/__init__.py",
+    "lib/python3.12/site-packages/charset_normalizer/cli/__main__.py",
+    "lib/python3.12/site-packages/charset_normalizer/cli/__pycache__/__init__.cpython-312.pyc",
+    "lib/python3.12/site-packages/charset_normalizer/cli/__pycache__/__main__.cpython-312.pyc",
+    "lib/python3.12/site-packages/charset_normalizer/constant.py",
+    "lib/python3.12/site-packages/charset_normalizer/legacy.py",
+    "lib/python3.12/site-packages/charset_normalizer/md.py",
+    "lib/python3.12/site-packages/charset_normalizer/models.py",
+    "lib/python3.12/site-packages/charset_normalizer/py.typed",
+    "lib/python3.12/site-packages/charset_normalizer/utils.py",
+    "lib/python3.12/site-packages/charset_normalizer/version.py"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "bin/normalizer",
+        "prefix_placeholder": "/opt/miniconda3/conda-bld/charset-normalizer_1761744840108/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "sha256": "e263c253a6740a33497f3ec1e83e5a0670b6d91e99ab6628c7661cd8f4435efd",
+        "size_in_bytes": 487,
+        "sha256_in_prefix": "d5b39df160ef506583150dae07b8e9958328a1ac36936ac8f6dd157eb8c4a9a9"
+      },
+      {
+        "_path": "lib/python3.12/site-packages/charset_normalizer-3.4.4.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5,
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8"
+      },
+      {
+        "_path": "lib/python3.12/site-packages/charset_normalizer-3.4.4.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "8d5b94141b62f1d6afd7d60bbd68acb138a155d176a33518e0a28cc3b8dd9014",
+        "size_in_bytes": 37303,
+        "sha256_in_prefix": "8d5b94141b62f1d6afd7d60bbd68acb138a155d176a33518e0a28cc3b8dd9014"
+      },
+      {
+        "_path": "lib/python3.12/site-packages/charset_normalizer-3.4.4.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "1722111c45b2670697f1aa632931a25e4d18ce6d28dd019f37a0258f7fc41f99",
+        "size_in_bytes": 2763,
+        "sha256_in_prefix": "1722111c45b2670697f1aa632931a25e4d18ce6d28dd019f37a0258f7fc41f99"
+      },
+      {
+        "_path": "lib/python3.12/site-packages/charset_normalizer-3.4.4.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0,
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "_path": "lib/python3.12/site-packages/charset_normalizer-3.4.4.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "ff309ddcdd65ebd02bc724dbf2bcc4a0ff53a5b61792a44548d383e4ebb19d3b",
+        "size_in_bytes": 91,
+        "sha256_in_prefix": "ff309ddcdd65ebd02bc724dbf2bcc4a0ff53a5b61792a44548d383e4ebb19d3b"
+      },
+      {
+        "_path": "lib/python3.12/site-packages/charset_normalizer-3.4.4.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "d6fe8e2ec6aa2c51f7e13713efd952ba4c7b3a09a21ec9d3edcfc6297a5b5a49",
+        "size_in_bytes": 97,
+        "sha256_in_prefix": "d6fe8e2ec6aa2c51f7e13713efd952ba4c7b3a09a21ec9d3edcfc6297a5b5a49"
+      },
+      {
+        "_path": "lib/python3.12/site-packages/charset_normalizer-3.4.4.dist-info/entry_points.txt",
+        "path_type": "hardlink",
+        "sha256": "0034932ab91767786174e5458ba0dc5041d0452d317f10c813fa44cf8c0b2170",
+        "size_in_bytes": 65,
+        "sha256_in_prefix": "0034932ab91767786174e5458ba0dc5041d0452d317f10c813fa44cf8c0b2170"
+      },
+      {
+        "_path": "lib/python3.12/site-packages/charset_normalizer-3.4.4.dist-info/licenses/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "6d0d41bfe170ac6c7dc248c9a63e254d0fb45a60d50a8257d0af92c6e249b887",
+        "size_in_bytes": 1071,
+        "sha256_in_prefix": "6d0d41bfe170ac6c7dc248c9a63e254d0fb45a60d50a8257d0af92c6e249b887"
+      },
+      {
+        "_path": "lib/python3.12/site-packages/charset_normalizer-3.4.4.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "ec04b2cde3ebf3fc6e65626c9ea263201b7257cbe1128d30042bf530f4518b74",
+        "size_in_bytes": 19,
+        "sha256_in_prefix": "ec04b2cde3ebf3fc6e65626c9ea263201b7257cbe1128d30042bf530f4518b74"
+      },
+      {
+        "_path": "lib/python3.12/site-packages/charset_normalizer/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "38a47146fd99867aa4d34b6a90dd1cd41b498e6d7ae5f5972f2744e7620ab877",
+        "size_in_bytes": 1590,
+        "sha256_in_prefix": "38a47146fd99867aa4d34b6a90dd1cd41b498e6d7ae5f5972f2744e7620ab877"
+      },
+      {
+        "_path": "lib/python3.12/site-packages/charset_normalizer/__main__.py",
+        "path_type": "hardlink",
+        "sha256": "cb3631311f8884a44763071295abc4bfca06770c6c47cf66af65f4f6a5c6769b",
+        "size_in_bytes": 109,
+        "sha256_in_prefix": "cb3631311f8884a44763071295abc4bfca06770c6c47cf66af65f4f6a5c6769b"
+      },
+      {
+        "_path": "lib/python3.12/site-packages/charset_normalizer/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "a4397ba8b327b99b990aa7e507d8902354f62ad0f658706fda4f3f49e802c36f",
+        "size_in_bytes": 1738,
+        "sha256_in_prefix": "a4397ba8b327b99b990aa7e507d8902354f62ad0f658706fda4f3f49e802c36f"
+      },
+      {
+        "_path": "lib/python3.12/site-packages/charset_normalizer/__pycache__/__main__.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "4025a3a3dc0dcaaca2d8265224ece206409db74764eeb9b87fa569e604e9fba6",
+        "size_in_bytes": 313,
+        "sha256_in_prefix": "4025a3a3dc0dcaaca2d8265224ece206409db74764eeb9b87fa569e604e9fba6"
+      },
+      {
+        "_path": "lib/python3.12/site-packages/charset_normalizer/__pycache__/api.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "fb2a713bac3f65541f4673e039c59b94c8d673e5832c5134fa2b8320ee1cf47a",
+        "size_in_bytes": 18121,
+        "sha256_in_prefix": "fb2a713bac3f65541f4673e039c59b94c8d673e5832c5134fa2b8320ee1cf47a"
+      },
+      {
+        "_path": "lib/python3.12/site-packages/charset_normalizer/__pycache__/cd.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "4326a26ae8ef6ed0c418a8c59d63f0470cec7db0bb4f3766f07c400b88b3a7a4",
+        "size_in_bytes": 13200,
+        "sha256_in_prefix": "4326a26ae8ef6ed0c418a8c59d63f0470cec7db0bb4f3766f07c400b88b3a7a4"
+      },
+      {
+        "_path": "lib/python3.12/site-packages/charset_normalizer/__pycache__/constant.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "db8bdd2b7daca9918c51c79356a9a45fb9c3f4019db085128eece9d5522dad67",
+        "size_in_bytes": 40768,
+        "sha256_in_prefix": "db8bdd2b7daca9918c51c79356a9a45fb9c3f4019db085128eece9d5522dad67"
+      },
+      {
+        "_path": "lib/python3.12/site-packages/charset_normalizer/__pycache__/legacy.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "020c6519506775fa89c2fd3984afd66a32cafb29ea5eda88f79bd13e1d506264",
+        "size_in_bytes": 2968,
+        "sha256_in_prefix": "020c6519506775fa89c2fd3984afd66a32cafb29ea5eda88f79bd13e1d506264"
+      },
+      {
+        "_path": "lib/python3.12/site-packages/charset_normalizer/__pycache__/md.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "f87a1127a8518bf7aca49e7885faac55cca6af67711ea770e1ec97d7fa58182f",
+        "size_in_bytes": 24294,
+        "sha256_in_prefix": "f87a1127a8518bf7aca49e7885faac55cca6af67711ea770e1ec97d7fa58182f"
+      },
+      {
+        "_path": "lib/python3.12/site-packages/charset_normalizer/__pycache__/models.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "c04ab67fbcf6d94360d1940e3b4d236fd6562334adb2aa3a5f800d5dc26c395f",
+        "size_in_bytes": 17081,
+        "sha256_in_prefix": "c04ab67fbcf6d94360d1940e3b4d236fd6562334adb2aa3a5f800d5dc26c395f"
+      },
+      {
+        "_path": "lib/python3.12/site-packages/charset_normalizer/__pycache__/utils.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "a6ba14bec803ba31e177016f05cbd1f1c6e86cce5e76fdb2ceaf67a0965f8f47",
+        "size_in_bytes": 13668,
+        "sha256_in_prefix": "a6ba14bec803ba31e177016f05cbd1f1c6e86cce5e76fdb2ceaf67a0965f8f47"
+      },
+      {
+        "_path": "lib/python3.12/site-packages/charset_normalizer/__pycache__/version.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "5da4af686dda04fc307b6e7e9f0f155f1c9660794e962a0477448d48da1bd836",
+        "size_in_bytes": 340,
+        "sha256_in_prefix": "5da4af686dda04fc307b6e7e9f0f155f1c9660794e962a0477448d48da1bd836"
+      },
+      {
+        "_path": "lib/python3.12/site-packages/charset_normalizer/api.py",
+        "path_type": "hardlink",
+        "sha256": "574ee2f1a55e083f13d9f4a26b70be7e7d22f6df2a420b84061b2ab33837d8db",
+        "size_in_bytes": 22668,
+        "sha256_in_prefix": "574ee2f1a55e083f13d9f4a26b70be7e7d22f6df2a420b84061b2ab33837d8db"
+      },
+      {
+        "_path": "lib/python3.12/site-packages/charset_normalizer/cd.py",
+        "path_type": "hardlink",
+        "sha256": "58a4e8d470dbf87f477c20dcdc17f0ab98f34b6e598b2f521366bbe12813abcf",
+        "size_in_bytes": 12522,
+        "sha256_in_prefix": "58a4e8d470dbf87f477c20dcdc17f0ab98f34b6e598b2f521366bbe12813abcf"
+      },
+      {
+        "_path": "lib/python3.12/site-packages/charset_normalizer/cli/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "0fc23cea5164dbea72e3926fab19e24e2ad28ffb05c84eac8da63fd3e1b5b217",
+        "size_in_bytes": 136,
+        "sha256_in_prefix": "0fc23cea5164dbea72e3926fab19e24e2ad28ffb05c84eac8da63fd3e1b5b217"
+      },
+      {
+        "_path": "lib/python3.12/site-packages/charset_normalizer/cli/__main__.py",
+        "path_type": "hardlink",
+        "sha256": "74c6971ba2095d1beaabccf6b6283b41bf37f81a564e59f9e68a2292ee7fbaf8",
+        "size_in_bytes": 12646,
+        "sha256_in_prefix": "74c6971ba2095d1beaabccf6b6283b41bf37f81a564e59f9e68a2292ee7fbaf8"
+      },
+      {
+        "_path": "lib/python3.12/site-packages/charset_normalizer/cli/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "58d9b75294bd8e0f7fd570bcbfecc23d3c043d9a0388cf978f7b410a5b5dfee5",
+        "size_in_bytes": 301,
+        "sha256_in_prefix": "58d9b75294bd8e0f7fd570bcbfecc23d3c043d9a0388cf978f7b410a5b5dfee5"
+      },
+      {
+        "_path": "lib/python3.12/site-packages/charset_normalizer/cli/__pycache__/__main__.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "ccfc731b4feb29fa4a1b550ae24638a992b7217e58d403a065c723af03d2b654",
+        "size_in_bytes": 14351,
+        "sha256_in_prefix": "ccfc731b4feb29fa4a1b550ae24638a992b7217e58d403a065c723af03d2b654"
+      },
+      {
+        "_path": "lib/python3.12/site-packages/charset_normalizer/constant.py",
+        "path_type": "hardlink",
+        "sha256": "ed4558e2575886640c1d476043fb20666cdc434c71631a41ba7a9267e5c967c5",
+        "size_in_bytes": 42713,
+        "sha256_in_prefix": "ed4558e2575886640c1d476043fb20666cdc434c71631a41ba7a9267e5c967c5"
+      },
+      {
+        "_path": "lib/python3.12/site-packages/charset_normalizer/legacy.py",
+        "path_type": "hardlink",
+        "sha256": "b180734a9cec46b83fc05e0b3f9dfaa46eb8048b70ed3aad73748c4001ef14b3",
+        "size_in_bytes": 2731,
+        "sha256_in_prefix": "b180734a9cec46b83fc05e0b3f9dfaa46eb8048b70ed3aad73748c4001ef14b3"
+      },
+      {
+        "_path": "lib/python3.12/site-packages/charset_normalizer/md.py",
+        "path_type": "hardlink",
+        "sha256": "fbfa0dde1dff5fdf679057ea6a60f7caee390c2ff07e4e68747d13aff090897b",
+        "size_in_bytes": 20145,
+        "sha256_in_prefix": "fbfa0dde1dff5fdf679057ea6a60f7caee390c2ff07e4e68747d13aff090897b"
+      },
+      {
+        "_path": "lib/python3.12/site-packages/charset_normalizer/models.py",
+        "path_type": "hardlink",
+        "sha256": "94a5e13a720fb626a46cade2fff27dc2939fcf1dc90d32a3ec39f7460d156912",
+        "size_in_bytes": 12394,
+        "sha256_in_prefix": "94a5e13a720fb626a46cade2fff27dc2939fcf1dc90d32a3ec39f7460d156912"
+      },
+      {
+        "_path": "lib/python3.12/site-packages/charset_normalizer/py.typed",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0,
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "_path": "lib/python3.12/site-packages/charset_normalizer/utils.py",
+        "path_type": "hardlink",
+        "sha256": "b137a33e0add94db0a36e7197c90b127de653132c0d128472cb1379f9c294fd4",
+        "size_in_bytes": 12170,
+        "sha256_in_prefix": "b137a33e0add94db0a36e7197c90b127de653132c0d128472cb1379f9c294fd4"
+      },
+      {
+        "_path": "lib/python3.12/site-packages/charset_normalizer/version.py",
+        "path_type": "hardlink",
+        "sha256": "9ca138a81364e560382c827fc881ff6920dfbedb328b3916320f8f506f946559",
+        "size_in_bytes": 115,
+        "sha256_in_prefix": "9ca138a81364e560382c827fc881ff6920dfbedb328b3916320f8f506f946559"
+      }
+    ]
+  },
+  "link": {
+    "source": "/opt/anaconda3/pkgs/charset-normalizer-3.4.4-py312hca03da5_0",
+    "type": 1
+  }
+}
