@@ -1,3 +1,4 @@
 ipykernel
 requests==2.32.5
 numpy==2.3.5
+fastmcp
